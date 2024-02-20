@@ -5,14 +5,16 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Teixeira-G&layout=compact&hide_border=true&title_color=40798c&text_color=40798c&bg_color=0d1117" />
   </div>
 
-### Main Skills:
+### MAIN SKILLS:
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Gab-Java" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
   <img align="center" alt="Gab-C" height="55" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />          
 </div>
 
-### Others:
+##
+
+### OTHERS:
 <div style="display: inline_block"><br>
   <img align="center" alt="Gab-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
   <img align="center" alt="Gab-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
