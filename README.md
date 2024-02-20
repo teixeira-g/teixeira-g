@@ -1,8 +1,8 @@
 - 🖥️ Cursando Análise e Desenvolvimento de Sistemas
 <div align="center">
   <a href="https://github.com/Teixeira-G">
-  <img width="55%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Teixeira-G&show_icons=true&count_private=true&hide_border=true&title_color=40798c&icon_color=40798c&text_color=c9d1d9&bg_color=0d1117" alt="Gabriel Teixeira github stats" /> 
-  <img width="36%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Teixeira-G&layout=compact&hide_border=true&title_color=40798c&text_color=40798c&bg_color=0d1117" />
+  <img width="51%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Teixeira-G&show_icons=true&count_private=true&hide_border=true&title_color=40798c&icon_color=40798c&text_color=c9d1d9&bg_color=0d1117" alt="Gabriel Teixeira github stats" /> 
+  <img width="40%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Teixeira-G&layout=compact&hide_border=true&title_color=40798c&text_color=40798c&bg_color=0d1117" />
   </div>
 
 ### MAIN SKILLS:
